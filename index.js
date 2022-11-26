@@ -18,5 +18,5 @@ app.get('/',  (req, res) => {
 const port = env.PORT || 3000;
 
 app.listen(port, () => {
-    console.log( `El back funcionara en el puerto ${port}`)
+    console.log(`El back funcionara en el puerto ${port}`)
 })

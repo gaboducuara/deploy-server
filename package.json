@@ -4,7 +4,8 @@
   "description": "Cotizacion de la aplicacion por parte del BACKEND",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "build":"echo success"
   },
   "author": "Gabriel mancilla Ducuara , Facundo , Fabricio",
   "license": "ISC",
